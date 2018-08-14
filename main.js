@@ -90,6 +90,20 @@ let stack2 = new Stack();
 let stack3 = new Stack();
 let bst = new Bst();
 
+bst.insert();
+bst.insert();
+bst.insert();
+bst.insert();
+bst.insert();
+bst.insert();
+bst.insert();
+bst.insert();
+bst.insert();
+bst.insert();
+bst.insert();
+bst.insert();
+bst.insert();
+
 
 stack1.push(1);
 stack1.push(3)
@@ -111,3 +125,45 @@ stack1.push(14)
 stack1.push(18)
 stack1.push(20)
 stack1.push(22)
+
+stack2.push(31);
+stack2.push(33)
+stack2.push(35)
+stack2.push(37)
+stack2.push(39)
+stack2.push(312)
+stack2.push(315)
+stack2.push(318)
+stack2.push(321)
+stack2.push(323)
+stack2.push(32)
+stack2.push(34)
+stack2.push(36)
+stack2.push(38)
+stack2.push(310)
+stack2.push(311)
+stack2.push(314)
+stack2.push(318)
+stack2.push(320)
+stack2.push(322)
+
+stack3.push(531);
+stack3.push(353)
+stack3.push(355)
+stack3.push(375)
+stack3.push(395)
+stack3.push(3152)
+stack3.push(3145)
+stack3.push(3158)
+stack3.push(3251)
+stack3.push(3253)
+stack3.push(532)
+stack3.push(534)
+stack3.push(536)
+stack3.push(538)
+stack3.push(610)
+stack3.push(611)
+stack3.push(814)
+stack3.push(718)
+stack3.push(920)
+stack3.push(1022)
